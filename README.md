@@ -1,5 +1,5 @@
 # static-survey-page
-Visit here https://johnayanyemi.github.io/portfolio
+Visit here https://johnayanyemi.github.io/static-survey-page
 
 Hi there! Thanks for visiting. So this page was built based on practice, It hardly contains relevant information but I'm happy I was able to pull this up (humble beginnings).
 
